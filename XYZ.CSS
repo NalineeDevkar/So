@@ -1,0 +1,39 @@
+#M1{
+background-image:url(background\ img.jpg.png);
+background-size:cover;
+
+
+
+}
+#N1{
+    padding-left: 100PX;
+    color: blueviolet;
+    width: 500PX;
+    font-size: 80PX;
+    font-family:sans-serif;
+   
+}
+#N3{
+    padding-left: 100PX;
+    color: blueviolet;
+    width: 500PX;
+    font-size: 80PX;
+    font-family:sans-serif;
+   
+}
+#N2{
+    padding-left: 100PX;
+    color:peru;
+    width: 500PX;
+    font-size: 100PX;
+    font-family:sans-serif;
+   
+}
+#N4{
+    padding-left: 100PX;
+    color: peru;
+    width: 500PX;
+    font-size: 100PX;
+    font-family:sans-serif;
+   
+}
